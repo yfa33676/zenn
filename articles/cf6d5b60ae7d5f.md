@@ -4,7 +4,7 @@ emoji: "🗣️"
 topics:
   - "圏論"
   - "自然変換"
-  - "関主"
+  - "関手"
   - "域"
 type: tech
 published: true
